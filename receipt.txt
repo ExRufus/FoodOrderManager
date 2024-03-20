@@ -1,0 +1,4 @@
+Es Jeruk - Qty: 2, Price: 10000
+Es Teh Manis - Qty: 4, Price: 12000
+Total Quantity: 6
+Total Price: 22000
